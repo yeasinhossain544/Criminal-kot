@@ -26,22 +26,6 @@
 Storage permission দিন এবং ফাইল ডিরেক্টরিতে যান:
 ```bash
 termux-setup-storage && cd storage/shared/yeasin
-
-## 🚀 Installation & Usage
-This Tool oparate python3 
-### 1. Clone the Repository
-```bash
-git clone https://github.com/yeasinhossain544/Criminal-kot.git
-cd Criminal-kot
-pkg install python3 
-
+pkg install python3
 ## Alternative Mathod
-**Download zip file https://1024terabox.com/s/1mvXXoJx4Neks4fbxzGsXog
 extract yeasin file in filemanager
-​🚀 One-Line Execution (Termux / Kali Linux)
-termux-setup-storage && cd storage/shared/yeasin (Storage Permission)
-
-## Execute
-cd storage
-cd shared
-cd yeasin
