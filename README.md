@@ -20,7 +20,7 @@
 
 **Apanar local server-ke public link-e convert korar jonno niche dewa command-ti run korun:**
 **` pkg install cloudflared'**
-**`cloudflared tunnel --url http://localhost:3333`**
+**`cloudflared tunnel --url http://localhost:3333**
 
 ## 🛠️ Alternative Method
 1. **Download ZIP File:** [Click Here to Download](https://mega.nz/file/Tb4U0ShR#sfnYgmKpDrve9WmInuKdAqsKTsZERi_zdRtMJ6T2Mrc)
