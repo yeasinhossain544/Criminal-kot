@@ -9,7 +9,7 @@ import time
 # --- GITHUB AUTH CONFIGURATION ---
 GITHUB_USERNAME = "yeasinhossain544"
 REPO_NAME = "yeasinju-config"
-TOKEN = "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"
+TOKEN = "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"
 
 
 URL = f"https://api.github.com/repos/{GITHUB_USERNAME}/{REPO_NAME}/contents/config.json"
