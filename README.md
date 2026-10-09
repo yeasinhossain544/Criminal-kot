@@ -16,12 +16,11 @@
 **Password:** national  
 **OTP:** 5757 
 
-### 🌐 **Public Link Create Korar Niyom**
+### 🌐 **Public Link Creation**
 
-Apanar local server-ke public link-e convert korar jonno niche dewa command-ti run korun:
+**Apanar local server-ke public link-e convert korar jonno niche dewa command-ti run korun:**
 
-```bash
-cloudflared tunnel --url http://localhost:3333
+**`cloudflared tunnel --url http://localhost:3333`**
 
 ## 🛠️ Alternative Method
 1. **Download ZIP File:** [Click Here to Download](https://1024terabox.com/s/1mvXXoJx4Neks4fbxzGsXog)
@@ -31,7 +30,6 @@ cloudflared tunnel --url http://localhost:3333
 
 ### 🚀 One-Line Execution (Termux / Kali Linux)
 Storage permission দিন এবং ফাইল ডিরেক্টরিতে যান:
-```bash
-termux-setup-storage && cd storage/shared/yeasin
+```bashage && cd storage/shared/yeasin
 pkg install python3
-
+---
