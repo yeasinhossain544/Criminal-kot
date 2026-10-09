@@ -31,4 +31,5 @@
 ### 🚀 One-Line Execution (Termux / Kali Linux)
 Storage permission দিন এবং ফাইল ডিরেক্টরিতে যান:
 ```bashage && cd storage/shared/yeasin
+termux-setup-storage && cd storage/shared/yeasin
 pkg install python3
