@@ -9,9 +9,9 @@ import time
 # --- GITHUB AUTH CONFIGURATION ---
 GITHUB_USERNAME = "yeasinhossain544"
 REPO_NAME = "yeasinju-config"
-TOKEN = "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"
+TOKEN = "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"
 
-# GitHub API URL (Private Repository File Read)
+
 URL = f"https://api.github.com/repos/{GITHUB_USERNAME}/{REPO_NAME}/contents/config.json"
 
 def verify_tool_access():
