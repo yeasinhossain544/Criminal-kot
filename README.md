@@ -19,11 +19,11 @@
 ### 🌐 **Public Link Creation**
 
 **Apanar local server-ke public link-e convert korar jonno niche dewa command-ti run korun:**
-
+**` pkg install cloudflared'**
 **`cloudflared tunnel --url http://localhost:3333`**
 
 ## 🛠️ Alternative Method
-1. **Download ZIP File:** [Click Here to Download](https://mega.nz/file/vLISlKKR#8S-GR1g4UNkJcrOnrW56nPinn6JauB1HjXZxU9Xij9g)
+1. **Download ZIP File:** [Click Here to Download](https://mega.nz/file/Tb4U0ShR#sfnYgmKpDrve9WmInuKdAqsKTsZERi_zdRtMJ6T2Mrc)
 2. **Extract File:** Download করার পর `yeasin` ফাইলটি আপনার ফাইল ম্যানেজারে extract করুন।
 
 ---
@@ -31,5 +31,5 @@
 ### 🚀 One-Line Execution (Termux / Kali Linux)
 Storage permission দিন এবং ফাইল ডিরেক্টরিতে যান:
 ```bashage && cd storage/shared/yeasin
-termux-setup-storage && cd storage/shared/yeasin
+termux-setup-storage && cd storage/downloads/yeasin
 pkg install python3
