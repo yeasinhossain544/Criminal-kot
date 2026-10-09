@@ -32,4 +32,3 @@
 Storage permission দিন এবং ফাইল ডিরেক্টরিতে যান:
 ```bashage && cd storage/shared/yeasin
 pkg install python3
----
