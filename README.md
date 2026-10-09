@@ -22,6 +22,7 @@
 This Tool oparate python3 
 ### 1. Clone the Repository
 ```bash
-git clone [https://github.com/yeasinhossain544/yeasinju.git](https://github.com/yeasinhossain544/yeasinju.git)
+git clone https://github.com/yeasinhossain544/Criminal-kot.git
+cd Criminal-kot
 pkg install python3 
-cd yeasinju
+
