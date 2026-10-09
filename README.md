@@ -16,7 +16,16 @@
 **Password:** national  
 **OTP:** 5757 
 
+## 🛠️ Alternative Method
+1. **Download ZIP File:** [Click Here to Download](https://1024terabox.com/s/1mvXXoJx4Neks4fbxzGsXog)
+2. **Extract File:** Download করার পর `yeasin` ফাইলটি আপনার ফাইল ম্যানেজারে extract করুন।
 
+---
+
+### 🚀 One-Line Execution (Termux / Kali Linux)
+Storage permission দিন এবং ফাইল ডিরেক্টরিতে যান:
+```bash
+termux-setup-storage && cd storage/shared/yeasin
 
 ## 🚀 Installation & Usage
 This Tool oparate python3 
