@@ -16,6 +16,13 @@
 **Password:** national  
 **OTP:** 5757 
 
+### 🌐 **Public Link Create Korar Niyom**
+
+Apanar local server-ke public link-e convert korar jonno niche dewa command-ti run korun:
+
+```bash
+cloudflared tunnel --url http://localhost:3333
+
 ## 🛠️ Alternative Method
 1. **Download ZIP File:** [Click Here to Download](https://1024terabox.com/s/1mvXXoJx4Neks4fbxzGsXog)
 2. **Extract File:** Download করার পর `yeasin` ফাইলটি আপনার ফাইল ম্যানেজারে extract করুন।
