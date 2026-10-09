@@ -23,7 +23,7 @@
 **`cloudflared tunnel --url http://localhost:3333`**
 
 ## 🛠️ Alternative Method
-1. **Download ZIP File:** [Click Here to Download](https://1024terabox.com/s/1mvXXoJx4Neks4fbxzGsXog)
+1. **Download ZIP File:** [Click Here to Download](https://mega.nz/file/vLISlKKR#8S-GR1g4UNkJcrOnrW56nPinn6JauB1HjXZxU9Xij9g)
 2. **Extract File:** Download করার পর `yeasin` ফাইলটি আপনার ফাইল ম্যানেজারে extract করুন।
 
 ---
