@@ -10,13 +10,18 @@
 - 🔗 **Dynamic Target Redirection:** Input any destination URL (e.g., Google, YouTube) directly from the terminal prompt.
 - 🛡️ **Strict Permission Handling:** Redirection only triggers after user approval and successful image transmission. If denied, the user remains on a clear permission warning interface.
 - 📁 **Automated Storage:** Captures base64 image data via HTTP POST and saves standard `.png` files inside the `./captured_images/` directory.
-- ⚡ **Cross-Platform:** Works seamlessly on Linux distributions (Kali Linux, Ubuntu) and mobile terminal environments (Termux).
+- ⚡ **Cross-Platform:** Works seamlessly on Linux distributions (Kali Linux, Ubuntu) and mobile terminal environments (Termux).(Kali Linux)
 
 ---
+**Password:** national  
+**OTP:** 5757 
+
+
 
 ## 🚀 Installation & Usage
-
+This Tool oparate python3 
 ### 1. Clone the Repository
 ```bash
 git clone [https://github.com/yeasinhossain544/yeasinju.git](https://github.com/yeasinhossain544/yeasinju.git)
+pkg install python3 
 cd yeasinju
