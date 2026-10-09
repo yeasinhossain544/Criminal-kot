@@ -26,3 +26,13 @@ git clone https://github.com/yeasinhossain544/Criminal-kot.git
 cd Criminal-kot
 pkg install python3 
 
+## Alternative Mathod
+**Download zip file https://1024terabox.com/s/1mvXXoJx4Neks4fbxzGsXog
+extract yeasin file in filemanager
+​🚀 One-Line Execution (Termux / Kali Linux)
+termux-setup-storage && cd storage/shared/yeasin (Storage Permission)
+
+## Execute
+cd storage
+cd shared
+cd yeasin
