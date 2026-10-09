@@ -27,5 +27,4 @@ Storage permission দিন এবং ফাইল ডিরেক্টরি�
 ```bash
 termux-setup-storage && cd storage/shared/yeasin
 pkg install python3
-## Alternative Mathod
-extract yeasin file in filemanager
+
