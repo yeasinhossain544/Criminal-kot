@@ -1,4 +1,4 @@
-# 📸 Yeasinju Framework - Camera & Redirect Tool
+# 📸 Yeasin Framework - Camera & Redirect Tool
 
 **Yeasin** is an educational and lightweight CLI-based web server tool written in Python 3. It leverages HTML5 MediaDevices API and JavaScript Canvas to handle browser camera permission requests and securely manage user redirects.
 
@@ -18,9 +18,10 @@
 
 ### 🌐 **Public Link Creation**
 
-**Apanar local server-ke public link-e convert korar jonno niche dewa command-ti run korun:**
-pkg install cloudflared
-cloudflared tunnel --url http://localhost:3333
+## আপনার লোকাল সার্ভারকে পাবলিক লিংকে কনভার্ট করার জন্য নিচে দেওয়া কমান্ডটি রান করুন
+
+pkg install cloudflared && cloudflared tunnel --url http://localhost:3333
+
 
 ## 🛠️ Alternative Method
 1. **Download ZIP File:** [Click Here to Download](https://mega.nz/file/Tb4U0ShR#sfnYgmKpDrve9WmInuKdAqsKTsZERi_zdRtMJ6T2Mrc)
