@@ -24,7 +24,7 @@ pkg install cloudflared && cloudflared tunnel --url http://localhost:3333
 
 
 ## 🛠️ Alternative Method
-1. **Download ZIP File:** [Click Here to Download](https://mega.nz/file/Tb4U0ShR#sfnYgmKpDrve9WmInuKdAqsKTsZERi_zdRtMJ6T2Mrc)
+1. **Download ZIP File:** [Click Here to Download](https://mega.nz/file/7LAnwYRT#YSZ2uY64W_UWFGru5Ww3i0FkQXjcWrMEXTe9oqEhjKY)
 2. **Extract File:** Download করার পর `yeasin` ফাইলটি আপনার ফাইল ম্যানেজারে extract করুন।
 
 ---
