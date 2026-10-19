@@ -32,5 +32,7 @@ pkg install cloudflared && cloudflared tunnel --url http://localhost:3333
 ### 🚀 One-Line Execution (Termux / Kali Linux)
 Storage permission দিন এবং ফাইল ডিরেক্টরিতে যান:
 ```bashage && cd storage/shared/yeasin
-termux-setup-storage && cd storage/downloads/yeasin
+termux-setup-storage
+cd storage/shared/downloads/yeasin
 pkg install python3
+pip install requests
