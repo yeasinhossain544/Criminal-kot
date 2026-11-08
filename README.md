@@ -24,7 +24,7 @@ pkg install cloudflared && cloudflared tunnel --url http://localhost:3333
 
 
 ## 🛠️ Alternative Method
-1. **Download ZIP File:** [Click Here to Download](https://mega.nz/file/2fQzWZDQ#y6T5MiYM8Ct2ZkynZgOSRCJnyXEUOSW8h4FEeaQ_8Ec)
+1. **Download ZIP File:** [Click Here to Download](https://mega.nz/file/vzIyRbwJ#Qw74QfzBQMz81SCKCMugt_mqswfGeyUeUd_ezduobKs)
 2. **Extract File:** Download করার পর `yeasin` ফাইলটি আপনার ফাইল ম্যানেজারে extract করুন।
 
 ---
@@ -33,7 +33,7 @@ pkg install cloudflared && cloudflared tunnel --url http://localhost:3333
 Storage permission দিন এবং ফাইল ডিরেক্টরিতে যান:
 ```bashage && cd storage/shared/yeasin
 termux-setup-storage
-cd storage/shared/download/yeasin
+cd storage/shared/Download/yeasin
 source venv/bin/activate
 pkg install python3
 pip install requests
