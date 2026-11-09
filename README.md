@@ -7,7 +7,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF0033&center=true&vCenter=true&width=650&lines=THIS+REPO+HAS+BEEN+DETECTION;ACCESSED+BY+YEASIN+HOSSAIN;SECURITY+VERIFICATION+COMPLETE;ROOT+PRIVILEGES+GRANTED" alt="Typing SVG" />
 
   <p align="center">
-    <code>[ SYSTEM BREACH VERIFIED & SECURED BY DEV-MITUL ]</code>
+    <code>[ SYSTEM BREACH VERIFIED & SECURED BY DEV-YEASIN ]</code>
   </p>
 
   <p align="center">
