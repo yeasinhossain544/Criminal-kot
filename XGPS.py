@@ -8,50 +8,23 @@ import base64
 import time
 
 import os
-from dotenv import load_dotenv
 
-load_dotenv()
-
-GITHUB_USERNAME = "yeasinhossain544"
-REPO_NAME = "yeasinju-config"
-
-TOKEN = os.getenv("GITHUB_TOKEN")
-
-URL = f"https://api.github.com/repos/{GITHUB_USERNAME}/{REPO_NAME}/contents/config.json"
-
-def verify_tool_access():
-    headers = {
-        "Authorization": f"token {TOKEN}",
-        "Accept": "application/vnd.github.v3.raw",
-        "User-Agent": "Python-App"
-    }
-    
+def free_port(port):
     try:
-        response = requests.get(URL, headers=headers, timeout=10)
-        
-        if response.status_code == 200:
-            data = response.json()
-            correct_pass = data.get("password")
-            correct_otp = data.get("otp")
+        if shutil.which("fuser"):
+            subprocess.run(["fuser", "-k", f"{port}/tcp"], stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL, check=False)
+            return True
+    except Exception:
+        pass
 
-            user_pass = input("Enter Password: ").strip()
-            user_otp = input("Enter OTP: ").strip()
-
-            if user_pass == correct_pass and user_otp == correct_otp:
-                print("\n[+] Access Granted! Welcome to the Tool.\n")
-                return True
-            else:
-                print("\n[-] Invalid Password or OTP! Access Denied.")
-                return False
-        else:
-            print("\n[-] Error fetching configuration. Status Code:", response.status_code)
-            return False
-            
-    except Exception as e:
-        print("\n[-] Connection Error! Please check your internet connection.")
+    try:
+        result = subprocess.run(["lsof", "-ti", f":{port}"], capture_output=True, text=True, check=False)
+        pids = [pid.strip() for pid in result.stdout.splitlines() if pid.strip()]
+        for pid in pids:
+            subprocess.run(["kill", "-9", pid], stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL, check=False)
+        return True
+    except Exception:
         return False
-
-# --- MAIN TOOL PROCESS ---
 def run_main_tool():
     os.system('clear' if os.name != 'nt' else 'cls')
 
@@ -195,12 +168,11 @@ def run_main_tool():
         try:
             httpd.serve_forever()
         except KeyboardInterrupt:
-            print(RED + "\n[*] Yeasinju GPS Tool Stopped." + RESET)
+            print(RED + "\n[*] Criminal-KOT  XGPS Tool Stopped." + RESET)
 
 
-# --- SCRIPT EXECUTION ENTRY POINT ---
 if __name__ == "__main__":
-    if verify_tool_access():
+    try:
         run_main_tool()
-    else:
-        sys.exit()
+    except KeyboardInterrupt:
+        print(RED + "\n[*] XGPS  Tool Stopped." + RESET)
