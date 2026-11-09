@@ -41,7 +41,7 @@
 
 [+] PUBLICK LINK      : pkg install cloudflared -y && cloudflared tunnel --url http://localhost:3333
 
-[+] ENCRYPTION  : CRIMINAL KOT IS VERY POWERFULL TOOL TO FIND FROUD/SCAMMER AND OTHER
+[+] ENCRYPTION        : CRIMINAL KOT IS VERY POWERFULL TOOL TO FIND FROUD/SCAMMER AND OTHER
 ```
 
 ---
