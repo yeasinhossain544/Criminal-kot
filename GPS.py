@@ -4,16 +4,19 @@ import http.server
 import socketserver
 import urllib.parse
 import base64
-import os
+
 import time
 
-# --- GITHUB AUTH CONFIGURATION ---
+import os
+from dotenv import load_dotenv
+
+load_dotenv()
+
 GITHUB_USERNAME = "yeasinhossain544"
 REPO_NAME = "yeasinju-config"
 
-TOKEN = "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"
+TOKEN = os.getenv("GITHUB_TOKEN")
 
-# GitHub API URL (Private Repository File Read)
 URL = f"https://api.github.com/repos/{GITHUB_USERNAME}/{REPO_NAME}/contents/config.json"
 
 def verify_tool_access():
