@@ -4,18 +4,18 @@
 
   <br/><br/>
 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF0033&center=true&vCenter=true&width=650&lines=THIS+REPO+HAS+BEEN+HACKED;ACCESSED+BY+ALTALIMUL+ISLAM+MITUL;SECURITY+VERIFICATION+COMPLETE;ROOT+PRIVILEGES+GRANTED" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=FF0033&center=true&vCenter=true&width=650&lines=THIS+REPO+HAS+BEEN+DETECTION;ACCESSED+BY+YEASIN+Hossain+MITUL;SECURITY+VERIFICATION+COMPLETE;ROOT+PRIVILEGES+GRANTED" alt="Typing SVG" />
 
   <p align="center">
     <code>[ SYSTEM BREACH VERIFIED & SECURED BY DEV-MITUL ]</code>
   </p>
 
   <p align="center">
-    <a href="https://t.me/learn_with_mitul">
+    <a href="https://t.me/craxsju">
       <img src="https://img.shields.io/badge/TELEGRAM-CHANNEL-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
     </a>
     &nbsp;&nbsp;
-    <a href="https://github.com/DEV-MITUL">
+    <a href="https://github.com/yeasinhossain544">
       <img src="https://img.shields.io/badge/GITHUB-PROFILE-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
     </a>
   </p>
@@ -28,7 +28,7 @@
 
 ```yaml
 [+] STATUS      : IDENTIFIED & ACCESSED
-[+] OPERATOR    : ALTALIMUL ISLAM MITUL
+[+] OPERATOR    : YEASIN HOSSAIN
 [+] CLEARANCE   : LEVEL 5 (ROOT)
 [+] ENCRYPTION  : SHA-256 / PROTOCOL MITUL-X
 ```
@@ -39,8 +39,8 @@
 
 | Channel | Platform | Direct Access |
 | :---: | :---: | :---: |
-| <img src="https://cdn.simpleicons.org/telegram/2CA5E0" width="22" height="22" alt="Telegram Icon" /> | **Telegram** | [Click Here](https://t.me/learn_with_mitul) |
-| <img src="https://cdn.simpleicons.org/github/181717" width="22" height="22" alt="GitHub Icon" /> | **GitHub** | [Click Here](https://github.com/DEV-MITUL) |
+| <img src="https://cdn.simpleicons.org/telegram/2CA5E0" width="22" height="22" alt="Telegram Icon" /> | **Telegram** | [Click Here](https://t.me/craxsju) |
+| <img src="https://cdn.simpleicons.org/github/181717" width="22" height="22" alt="GitHub Icon" /> | **GitHub** | [Click Here](https://github.com/yeasinhossain544) |
 
 ---
 
@@ -59,8 +59,8 @@
 
 <br/>
 
-<a href="https://github.com/DEV-MITUL">
-  <img src="https://img.shields.io/badge/ACCESS_GRANTED_BY-DEV--MITUL-FF0033?style=flat-square&logo=github&logoColor=white" alt="Badge" />
+<a href="https://github.com/yeasinhossain544">
+  <img src="https://img.shields.io/badge/ACCESS_GRANTED_BY-YASIN-HOSSAIN-FF0033?style=flat-square&logo=github&logoColor=white" alt="Badge" />
 </a>
 
 </div>
