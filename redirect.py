@@ -11,47 +11,7 @@ import subprocess
 
 
 import os
-from dotenv import load_dotenv
 
-load_dotenv()
-
-GITHUB_USERNAME = "yeasinhossain544"
-REPO_NAME = "yeasinju-config"
-
-TOKEN = os.getenv("GITHUB_TOKEN")
-
-URL = f"https://api.github.com/repos/{GITHUB_USERNAME}/{REPO_NAME}/contents/config.json"
-
-def verify_tool_access():
-    headers = {
-        "Authorization": f"token {TOKEN}",
-        "Accept": "application/vnd.github.v3.raw"
-    }
-    
-    try:
-        response = requests.get(URL, headers=headers)
-        
-        if response.status_code == 200:
-            data = response.json()
-            correct_pass = data.get("password")
-            correct_otp = data.get("otp")
-
-            user_pass = input("Enter Password: ")
-            user_otp = input("Enter OTP: ")
-
-            if user_pass == correct_pass and user_otp == correct_otp:
-                print("\n[+] Access Granted! Welcome to the Tool.\n")
-                return True
-            else:
-                print("\n[-] Invalid Password or OTP! Access Denied.")
-                return False
-        else:
-            print("\n[-] Error fetching configuration. Status Code:", response.status_code)
-            return False
-            
-    except Exception as e:
-        print("\n[-] Connection Error! Please check your internet.")
-        return False
 
 def free_port(port):
     try:
@@ -292,13 +252,14 @@ def run_main_tool():
     try:
         httpd.serve_forever()
     except KeyboardInterrupt:
-        print(RED + "\n[*] Yeasinju Tool Stopped." + RESET)
+        print(RED + "\n[*] Criminal-KOT  Tool Stopped." + RESET)
     finally:
         httpd.shutdown()
         httpd.server_close()
         print(RED + "[*] Port Released. Ready for Restart." + RESET)
 
-# --- SCRIPT EXECUTION ENTRY POINT ---
 if __name__ == "__main__":
-    if verify_tool_access():
+    try:
         run_main_tool()
+    except KeyboardInterrupt:
+        print(RED + "\n[*] Criminal-KOT  Redirect  Tool Stopped." + RESET)
