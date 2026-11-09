@@ -11,7 +11,7 @@
   </p>
 
   <p align="center">
-    <a href="https://t.me/mitul_islam">
+    <a href="https://t.me/learn_with_mitul">
       <img src="https://img.shields.io/badge/TELEGRAM-CHANNEL-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
     </a>
     &nbsp;&nbsp;
@@ -39,7 +39,7 @@
 
 | Channel | Platform | Direct Access |
 | :---: | :---: | :---: |
-| <img src="https://cdn.simpleicons.org/telegram/2CA5E0" width="22" height="22" alt="Telegram Icon" /> | **Telegram** | [Click Here](https://t.me/mitul_islam) |
+| <img src="https://cdn.simpleicons.org/telegram/2CA5E0" width="22" height="22" alt="Telegram Icon" /> | **Telegram** | [Click Here](https://t.me/learn_with_mitul) |
 | <img src="https://cdn.simpleicons.org/github/181717" width="22" height="22" alt="GitHub Icon" /> | **GitHub** | [Click Here](https://github.com/DEV-MITUL) |
 
 ---
